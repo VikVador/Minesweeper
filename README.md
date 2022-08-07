@@ -1,4 +1,4 @@
-#  <img src="assets/minesweeper.gif" width="40" height="40" /> Minesweeper (Human & AI Player)
+#  <img src="assets/minesweeper.gif" width="60" height="60" /> MINESWEEPER (Human & AI Player)
 
 ## Introduction
 You are bored at your office and would like to play a good old windows 98 game ? Here comes Minesweeper ! You can play it or watch an artificial intelligence do the risky job for you ! Enjoy 🎮
