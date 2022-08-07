@@ -44,4 +44,6 @@ For example, if you want to watch our artificial intelligence play on a minefiel
 
 Enjoy the game ! 🚏
 
+## Acknowledgement
 
+Thank you to the one and only [Ali](https://www.linkedin.com/in/ali-sezgin-07117b236/) ! 
